@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1736600187213,
+    "name": "Yeabsira Yibeltal",
+    "dob": "2004-04-24",
+    "age": 20,
+    "position": "HR Manager",
+    "phone": "0989990390",
+    "email": "yeabyib13@gmail.com",
+    "shift": "Day",
+    "basicSalary": 30000
+  },
+  {
+    "id": 1736605940419,
+    "name": "Samuel Teferi",
+    "dob": "2004-06-16",
+    "age": 20,
+    "position": "Purchaser",
+    "phone": "0982773777",
+    "email": "samuelteferi@gmail.com",
+    "shift": "Day",
+    "basicSalary": 28000
+  },
+  {
+    "id": 1736600187214,
+    "name": "Mulugeta Bekele",
+    "dob": "1998-07-11",
+    "age": 26,
+    "position": "Software Developer",
+    "phone": "0911223344",
+    "email": "mulugeta.bekele@gmail.com",
+    "shift": "Night",
+    "basicSalary": 40000
+  },
+  {
+    "id": 1736605940420,
+    "name": "Hannah Tesfaye",
+    "dob": "1995-02-02",
+    "age": 30,
+    "position": "Project Manager",
+    "phone": "0912556667",
+    "email": "hannah.tesfaye@gmail.com",
+    "shift": "Day",
+    "basicSalary": 35000
+  },
+  {
+    "id": 1736618533401,
+    "name": "Siham Mohammed",
+    "dob": "1990-11-15",
+    "age": 34,
+    "position": "Operations Manager",
+    "phone": "0934567890",
+    "email": "siham.mohammed@gmail.com",
+    "shift": "Day",
+    "basicSalary": 45000
+  },
+  {
+    "id": 1736625374005,
+    "name": "Tesfaye Demissie",
+    "dob": "1987-03-20",
+    "age": 37,
+    "position": "Finance Officer",
+    "phone": "0945678901",
+    "email": "tesfaye.demissie@gmail.com",
+    "shift": "Night",
+    "basicSalary": 38000
+  },
+  {
+    "id": 1736632205568,
+    "name": "Ruth Kiros",
+    "dob": "1994-05-06",
+    "age": 31,
+    "position": "HR Assistant",
+    "phone": "0956789012",
+    "email": "ruth.kiros@gmail.com",
+    "shift": "Day",
+    "basicSalary": 32000
+  },
+  {
+    "id": 1736645286275,
+    "name": "Hanna Assefa",
+    "dob": "1993-08-17",
+    "age": 31,
+    "position": "Customer Support Manager",
+    "phone": "0978901234",
+    "email": "hanna.assefa@gmail.com",
+    "shift": "Day",
+    "basicSalary": 3800000
+  },
+  {
+    "id": 1736652017818,
+    "name": "Abdi Ibrahim",
+    "dob": "1996-04-10",
+    "age": 28,
+    "position": "IT Specialist",
+    "phone": "0989012345",
+    "email": "abdi.ibrahim@gmail.com",
+    "shift": "Night",
+    "basicSalary": 4000000
+  },
+  {
+    "id": 1736658709219,
+    "name": "Nadine Mulu",
+    "dob": "2000-01-25",
+    "age": 24,
+    "position": "Content Writer",
+    "phone": "0990123456",
+    "email": "nadine.mulu@gmail.com",
+    "shift": "Day",
+    "basicSalary": 3500000
+  },
+  {
+    "id": 1736672012433,
+    "name": "Meklit Tadesse",
+    "dob": "1999-12-22",
+    "age": 25,
+    "position": "Operations Assistant",
+    "phone": "0922345678",
+    "email": "meklit.tadesse@gmail.com",
+    "shift": "Day",
+    "basicSalary": 3100000
+  }
+]
